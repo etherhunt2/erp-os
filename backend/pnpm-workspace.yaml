@@ -1,0 +1,12 @@
+allowBuilds:
+  '@prisma/client': false
+  '@prisma/engines': false
+  aws-sdk: true
+  bcrypt: false
+  prisma: false
+  sharp: true
+  core-js: false
+  core-js-pure: false
+
+minimumReleaseAgeExclude:
+  - express-rate-limit@8.7.1
