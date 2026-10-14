@@ -87,15 +87,8 @@
 	"resolutions": {
 		"ajv": "^8.12.0",
 		"ajv-keywords": "^5.1.0"
-	},
-	"pnpm": {
-		"neverBuiltDependencies": [
-			"core-js",
-			"core-js-pure"
-		],
-		"overrides": {
-			"ajv": "^8.12.0",
-			"ajv-keywords": "^5.1.0"
-		}
 	}
 }
+
+
+
